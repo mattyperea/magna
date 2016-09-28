@@ -1,1 +1,1 @@
-<command> python runserver.py
+web: python runserver.py -H "0.0.0.0"
